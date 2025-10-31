@@ -1,0 +1,3 @@
+EK101 Delhi Dubai 15:30 200 3
+EK102 Dubai Delhi 20:00 200 0
+EK201 Mumbai London 13:00 150 0
